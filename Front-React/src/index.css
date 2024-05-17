@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Brushot';
+    src: url('./fonts/Brushot-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RockBold';
+    src: url('./fonts/rockoflf-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'ASpaceLighht';
+    src: url('./fonts/A-Space\ Light\ Italic\ Demo.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Acidic';
+    src: url('./fonts/Acidic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Typewriter';
+    src: url('./fonts/veteran\ typewriter.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Mom';
+    src: url('./fonts/Mom«t___.ttf') format('truetype');
+}
+
+@font-Face{
+    font-family: 'Trebuchet MS';
+    src: url('./fonts/trebuchet-ms-bold.ttf') format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:wght@100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
